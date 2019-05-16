@@ -9,6 +9,11 @@ TagManager:
   - Cama de Pedrito
   - Mesa de Cena
   - nada
+  - cuarto
+  - Gradas
+  - Moneda Flotante
+  - Cajas Apiladas
+  - Pelota de Baloncesto
   layers:
   - Default
   - TransparentFX
